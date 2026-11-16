@@ -1,0 +1,16 @@
+# SOLIDWORKS temporary & lock files
+~$*.sldprt
+~$*.sldasm
+~$*.slddrw
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+*.swp
+*.bak
+~$*
+
+# OS & Editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
